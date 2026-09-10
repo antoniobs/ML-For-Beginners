@@ -1,0 +1,3 @@
+¿En que te especializas?
+
+Estoy muy centrado en el desarrollo de aplicaciones móviles y software de gestión de negocio. Me especializo en Android, iOS y web, con una fuerte visión de UX. Me encanta construir interfaces que sean atractivas y fáciles de usar. Aunque mi pasión es el desarrollo, también hago mucha investigación y diseño previo, y uso metodologías ágiles como Scrum para hacer las entregas. Aunque soy programador, no hago una programación exhaustiva, siempre me aseguro de que las experiencias que mis clientes obtengan sean únicas.

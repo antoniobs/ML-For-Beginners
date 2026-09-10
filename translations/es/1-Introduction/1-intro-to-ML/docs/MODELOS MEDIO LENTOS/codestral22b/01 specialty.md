@@ -1,0 +1,3 @@
+¿En que te especializas?
+
+¡Hola! Como asistente virtual, no tengo una especialidad médica ni tengo la capacidad de diagnosticar, tratar o curar enfermedades. Mi función principal es ayudarte con tareas como proporcionar información, responder preguntas, brindar soporte tecnológico, entre otras. Estoy aquí para hacer que tu vida sea más fácil y cómoda. Si tienes alguna pregunta relacionada con otro tema, estaré encantado de hacer lo posible para ayudarte.
