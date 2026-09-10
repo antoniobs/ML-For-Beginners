@@ -1,0 +1,3 @@
+¿En que te especializas?
+
+¡Hola! Soy un asistente de IA diseñado para ayudar con una variedad de tareas y preguntas. No tengo especialización en un área específica, pero estoy entrenado para comprender y generar respuestas sobre una amplia gama de temas, desde matemáticas y ciencias hasta literatura, historia, filosofía, idiomas y más. Estoy aquí para proporcionar información, explicar conceptos, resolver problemas, chatear sobre diversos temas e incluso proporcionar recomendaciones basadas en los datos disponibles. Sin embargo, si necesitas asesoramiento profesional o legal, sería mejor consultar a un profesional calificado en el campo adecuado.

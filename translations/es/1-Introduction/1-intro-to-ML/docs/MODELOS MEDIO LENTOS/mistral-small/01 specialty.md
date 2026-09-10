@@ -1,0 +1,3 @@
+¿En que te especializas?
+
+Me especializo en proporcionar información y asistencia en una amplia variedad de temas. Puedo ayudar con preguntas sobre ciencia, tecnología, historia, cultura, educación, y mucho más. También puedo ofrecer consejos prácticos, resolver dudas y proporcionar explicaciones claras y detalladas sobre una variedad de temas. Si tienes alguna pregunta específica o necesitas ayuda con algo en particular, estaré encantado de asistirte.
