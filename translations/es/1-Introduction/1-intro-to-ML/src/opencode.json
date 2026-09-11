@@ -1,0 +1,62 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "provider": {
+    "ollama": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "Ollama (local)",
+      "options": {
+        "baseURL": "http://localhost:11434/v1"
+      },
+      "models": {
+        "deepseek-coder-v2:16b": {
+          "name": "deepseek-coder-v2:16b"
+        },
+        "codellama:13b": {
+          "name": "codellama:13b"
+        },
+        "deepseek-coder:6.7b": {
+          "name": "deepseek-coder:6.7b"
+        },
+        "llama3.1:latest": {
+          "name": "llama3.1:latest"
+        },
+        "llama3.2:latest": {
+          "name": "llama3.2:latest"
+        },
+        "mistral-small:24b": {
+          "name": "mistral-small:24b"
+        },
+        "phi3:latest": {
+          "name": "phi3:latest"
+        },
+        "phi4:latest": {
+          "name": "phi4:latest"
+        },
+        "qwen3-coder:latest": {
+          "name": "qwen3-coder:latest"
+        },
+        "supergoatscriptguy/mythos-sec:24b": {
+          "name": "supergoatscriptguy/mythos-sec:24b"
+        },
+        "supergoatscriptguy/mythos-code:latest": {
+          "name": "supergoatscriptguy/mythos-code:latest"
+        },
+        "qwen2.5-coder:32b-base-q4_K_M": {
+          "name": "qwen2.5-coder:32b-base-q4_K_M"
+        }
+      }
+    },
+
+    "azure": {
+      "options": {
+        "resourceName": "fr-abs"
+      },
+      "models": {
+        "gpt-6-astra": {
+          "name": "GPT-6 Astra",
+          "id": "gpt-6-astra"
+        }
+      }
+    }
+  }
+}
